@@ -1,73 +1,94 @@
-Digital Forensics & Incident Response
+# Digital Forensics & Incident Response
 
-Overview
+## Overview
 
 A collaborative academic project completed as part of the 456 CIS – Digital Forensics & Incident Response course at King Khalid University.
 
 The project focuses on practical digital forensic investigations, evidence collection, network traffic analysis, Windows security auditing, and deleted file recovery.
 
-Project Tasks
+---
 
-Task 1: Live Volatile Data Collection & Persistence Analysis
+## Project Tasks
 
-* Windows system information collection.
-* Network connection analysis.
-* Logon session investigation.
-* Persistence analysis using Autoruns.
+### Task 1: Live Volatile Data Collection & Persistence Analysis
 
-Task 2: Network Traffic Capture & Wireshark PCAP Analysis
+- Windows system information collection.
+- Network connection analysis.
+- Logon session investigation.
+- Persistence analysis using Autoruns.
 
-* Snort IDS configuration.
-* Custom FTP detection rules.
-* Network packet analysis using Wireshark.
-* TCP stream investigation.
+### Task 2: Network Traffic Capture & Wireshark PCAP Analysis
 
-Task 3: Windows Event Viewer Audit & Shadow Copy Recovery
+- Snort IDS configuration.
+- Custom FTP detection rules.
+- Network packet analysis using Wireshark.
+- TCP stream investigation.
 
-* Windows security event investigation.
-* Failed logon analysis.
-* Security log clearing detection.
-* Deleted file recovery using Volume Shadow Copy.
+### Task 3: Windows Event Viewer Audit & Shadow Copy Recovery
 
-Task 4: Virtual Hard Drive Creation, Imaging & Data Carving
+- Windows security event investigation.
+- Failed logon analysis.
+- Security log clearing detection.
+- Deleted file recovery using Volume Shadow Copy.
 
-* Virtual Hard Drive creation.
-* Forensic disk imaging using FTK Imager.
-* Deleted JPEG recovery using Autopsy.
+### Task 4: Virtual Hard Drive Creation, Imaging & Data Carving
 
-Tools & Technologies
+- Virtual Hard Drive (VHD) creation and configuration.
+- Forensic disk imaging using FTK Imager.
+- Forensic image integrity verification.
+- Deleted JPEG recovery using Autopsy.
 
-* Kali Linux
-* Windows 11 Virtual Machine
-* Snort IDS
-* Wireshark
-* Sysinternals Suite
-* FTK Imager
-* Autopsy
+---
 
-My Contribution
+## Tools & Technologies
+
+- Kali Linux
+- Windows 11 Virtual Machine
+- Snort IDS
+- Wireshark
+- Sysinternals Suite
+- FTK Imager
+- Autopsy
+
+---
+
+## My Contribution
+
+I was responsible for Task 4: Virtual Hard Drive Creation, Imaging & Data Carving, including both theoretical research and practical implementation.
+
 - Created and configured a Virtual Hard Drive (VHD).
 - Performed forensic disk imaging using FTK Imager.
 - Verified forensic image integrity.
 - Recovered deleted JPEG files using Autopsy and data carving techniques.
 - Investigated NTFS file deletion and data recovery principles.
-  
-Team Project
+
+---
+
+## Team Project
 
 This project was completed collaboratively by four Computer Science students. Each member was responsible for specific theoretical and practical tasks.
 
-Academic Context
+Individual team contributions are documented in the project report.
 
-Course: 456 CIS – Digital Forensics & Incident Response
-Institution: King Khalid University
-College: College of Computer Science
+---
 
- Project Report
+## Academic Context
+
+- **Course:** 456 CIS – Digital Forensics & Incident Response
+- **Institution:** King Khalid University
+- **College:** College of Computer Science
+- **Year:** 2026
+
+---
+
+## Project Report
 
 [View the Full Digital Forensics Report (PDF)](./Digital_Forensics_Public.pdf)
 
 The report includes forensic methodologies, practical investigations, screenshots, and technical findings. Sensitive information has been redacted for privacy.
 
-Disclaimer
+---
+
+## Disclaimer
 
 This project was conducted for educational purposes in a controlled laboratory environment.
