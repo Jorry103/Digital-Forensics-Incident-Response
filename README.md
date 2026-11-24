@@ -46,9 +46,12 @@ Tools & Technologies
 * Autopsy
 
 My Contribution
-
-I was responsible for Task 4, which involved creating a Virtual Hard Drive, generating a forensic disk image using FTK Imager, and recovering deleted image files using Autopsy.
-
+- Created and configured a Virtual Hard Drive (VHD).
+- Performed forensic disk imaging using FTK Imager.
+- Verified forensic image integrity.
+- Recovered deleted JPEG files using Autopsy and data carving techniques.
+- Investigated NTFS file deletion and data recovery principles.
+  
 Team Project
 
 This project was completed collaboratively by four Computer Science students. Each member was responsible for specific theoretical and practical tasks.
@@ -58,6 +61,12 @@ Academic Context
 Course: 456 CIS – Digital Forensics & Incident Response
 Institution: King Khalid University
 College: College of Computer Science
+
+ Project Report
+
+[View the Full Digital Forensics Report (PDF)](./Digital_Forensics_Public.pdf)
+
+The report includes forensic methodologies, practical investigations, screenshots, and technical findings. Sensitive information has been redacted for privacy.
 
 Disclaimer
 
